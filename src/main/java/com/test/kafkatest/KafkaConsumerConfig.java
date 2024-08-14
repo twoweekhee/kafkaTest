@@ -1,4 +1,4 @@
-package com.test.replicationtest.global.config;
+package com.test.kafkatest;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
